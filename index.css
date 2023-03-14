@@ -1,0 +1,93 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: rgb(255, 187, 0);
+}
+h1{
+    justify-content: center;
+    display: flex;
+    margin: 13%;
+    padding: -26%;
+    font-size:8em;
+    color: rgb(0, 0, 0);
+    transform: rotate(-0deg);
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+h2{
+    justify-content:flex-start;
+    margin: 10%;
+    color: rgb(0, 0, 0);
+    transform: rotate(10deg);
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+h3{
+    display: flex;
+    margin: 10%;
+    padding: 0%;
+    transform: rotate(0deg);
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+h4{
+    margin: 5%;
+    padding: 5%;
+    font-size: 4em;
+    transform: rotate(-10deg);
+    color: rgb(0, 0, 0);
+    padding: 10%;
+    text-align:left;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+nav li{
+    display:inline-flex;
+    font-weight: 200;
+    text-decoration: none;
+}
+nav a{
+    display: flex;
+    font-size: 2em;
+    text-decoration: none;
+    margin: 6em;
+    padding:0%;
+    text-align: center;
+    justify-content: center;
+    color: black;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+}
+nav ul{
+    margin: 5%;
+    padding: 20%;
+    list-style-type: none;
+    transform: rotate(-8deg);
+}
+h5{
+    margin: 5%;
+    padding: 5%;
+    font-size: 8em;
+    list-style-type: none;
+    text-align: center;
+    transform: rotate(50deg)
+}
+h6{
+    font-size: 13em;
+    justify-content: right;
+    align-items: right;
+    display: flex;
+    margin: 16%;
+    transform: rotate(20deg);
+    
+}
+#vvv{
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    margin: 0%;
+    padding: 0%;
+
+}
